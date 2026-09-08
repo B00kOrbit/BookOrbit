@@ -1,0 +1,1918 @@
+[
+  {
+    "id": "14518580783",
+    "type": "WatchEvent",
+    "actor": {
+      "id": 1937629,
+      "login": "xdlinear",
+      "display_login": "xdlinear",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/xdlinear",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1937629?"
+    },
+    "repo": {
+      "id": 1233418417,
+      "name": "bookorbit/bookorbit",
+      "url": "https://api.github.com/repos/bookorbit/bookorbit"
+    },
+    "payload": {
+      "action": "started"
+    },
+    "public": true,
+    "created_at": "2026-09-06T13:19:41Z",
+    "org": {
+      "id": 279911312,
+      "login": "bookorbit",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/bookorbit",
+      "avatar_url": "https://avatars.githubusercontent.com/u/279911312?"
+    }
+  },
+  {
+    "id": "14517654291",
+    "type": "WatchEvent",
+    "actor": {
+      "id": 24678841,
+      "login": "byurhannurula",
+      "display_login": "byurhannurula",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/byurhannurula",
+      "avatar_url": "https://avatars.githubusercontent.com/u/24678841?"
+    },
+    "repo": {
+      "id": 1233418417,
+      "name": "bookorbit/bookorbit",
+      "url": "https://api.github.com/repos/bookorbit/bookorbit"
+    },
+    "payload": {
+      "action": "started"
+    },
+    "public": true,
+    "created_at": "2026-09-06T12:44:19Z",
+    "org": {
+      "id": 279911312,
+      "login": "bookorbit",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/bookorbit",
+      "avatar_url": "https://avatars.githubusercontent.com/u/279911312?"
+    }
+  },
+  {
+    "id": "14516643950",
+    "type": "WatchEvent",
+    "actor": {
+      "id": 156128870,
+      "login": "plastiq-ms",
+      "display_login": "plastiq-ms",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/plastiq-ms",
+      "avatar_url": "https://avatars.githubusercontent.com/u/156128870?"
+    },
+    "repo": {
+      "id": 1233418417,
+      "name": "bookorbit/bookorbit",
+      "url": "https://api.github.com/repos/bookorbit/bookorbit"
+    },
+    "payload": {
+      "action": "started"
+    },
+    "public": true,
+    "created_at": "2026-09-06T12:04:08Z",
+    "org": {
+      "id": 279911312,
+      "login": "bookorbit",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/bookorbit",
+      "avatar_url": "https://avatars.githubusercontent.com/u/279911312?"
+    }
+  },
+  {
+    "id": "14516300361",
+    "type": "WatchEvent",
+    "actor": {
+      "id": 38363684,
+      "login": "bsosnowski",
+      "display_login": "bsosnowski",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bsosnowski",
+      "avatar_url": "https://avatars.githubusercontent.com/u/38363684?"
+    },
+    "repo": {
+      "id": 1233418417,
+      "name": "bookorbit/bookorbit",
+      "url": "https://api.github.com/repos/bookorbit/bookorbit"
+    },
+    "payload": {
+      "action": "started"
+    },
+    "public": true,
+    "created_at": "2026-09-06T11:50:01Z",
+    "org": {
+      "id": 279911312,
+      "login": "bookorbit",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/bookorbit",
+      "avatar_url": "https://avatars.githubusercontent.com/u/279911312?"
+    }
+  },
+  {
+    "id": "14516141881",
+    "type": "IssueCommentEvent",
+    "actor": {
+      "id": 32312900,
+      "login": "Binocularbath",
+      "display_login": "Binocularbath",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Binocularbath",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32312900?"
+    },
+    "repo": {
+      "id": 1233418417,
+      "name": "bookorbit/bookorbit",
+      "url": "https://api.github.com/repos/bookorbit/bookorbit"
+    },
+    "payload": {
+      "action": "created",
+      "issue": {
+        "url": "https://api.github.com/repos/bookorbit/bookorbit/issues/1269",
+        "repository_url": "https://api.github.com/repos/bookorbit/bookorbit",
+        "labels_url": "https://api.github.com/repos/bookorbit/bookorbit/issues/1269/labels{/name}",
+        "comments_url": "https://api.github.com/repos/bookorbit/bookorbit/issues/1269/comments",
+        "events_url": "https://api.github.com/repos/bookorbit/bookorbit/issues/1269/events",
+        "html_url": "https://github.com/bookorbit/bookorbit/issues/1269",
+        "id": 5345702393,
+        "node_id": "I_kwDOSYR4sc8AAAABPqDx-Q",
+        "number": 1269,
+        "title": "[Feature] Standalone Android App",
+        "user": {
+          "login": "Sage222",
+          "id": 13340891,
+          "node_id": "MDQ6VXNlcjEzMzQwODkx",
+          "avatar_url": "https://avatars.githubusercontent.com/u/13340891?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/Sage222",
+          "html_url": "https://github.com/Sage222",
+          "followers_url": "https://api.github.com/users/Sage222/followers",
+          "following_url": "https://api.github.com/users/Sage222/following{/other_user}",
+          "gists_url": "https://api.github.com/users/Sage222/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/Sage222/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/Sage222/subscriptions",
+          "organizations_url": "https://api.github.com/users/Sage222/orgs",
+          "repos_url": "https://api.github.com/users/Sage222/repos",
+          "events_url": "https://api.github.com/users/Sage222/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/Sage222/received_events",
+          "type": "User",
+          "user_view_type": "public",
+          "site_admin": false
+        },
+        "labels": [
+          {
+            "id": 10982446319,
+            "node_id": "LA_kwDOSYR4sc8AAAACjprU7w",
+            "url": "https://api.github.com/repos/bookorbit/bookorbit/labels/feature",
+            "name": "feature",
+            "color": "4c30f8",
+            "default": false,
+            "description": "New feature request or capability proposal."
+          }
+        ],
+        "state": "open",
+        "locked": false,
+        "assignees": [
+
+        ],
+        "milestone": null,
+        "comments": 1,
+        "created_at": "2026-09-04T07:55:39Z",
+        "updated_at": "2026-09-06T11:43:23Z",
+        "closed_at": null,
+        "assignee": null,
+        "issue_field_values": [
+
+        ],
+        "type": null,
+        "active_lock_reason": null,
+        "sub_issues_summary": {
+          "total": 0,
+          "completed": 0,
+          "percent_completed": 0
+        },
+        "issue_dependencies_summary": {
+          "blocked_by": 0,
+          "total_blocked_by": 0,
+          "blocking": 0,
+          "total_blocking": 0
+        },
+        "body": "### What's your idea?\n\nStandalone Android App.  If not on the roadmap consider partnering with: https://github.com/van-geaux/lagrange-reader\n\n\n\n\n### What problem does it solve?\n\nAudiobook through native android browsers usually leads to battery manage killing the feed when the screen is off.\n\n### Anything else? (optional)\n\n_No response_\n\n### Want to help?\n\nYes, I'd like to implement this\n\n### Before submitting\n\n- [x] I've searched existing issues and this hasn't been requested yet.\n- [x] If I implement this, I will wait for maintainer approval and assignment before writing code or opening a pull request.",
+        "reactions": {
+          "url": "https://api.github.com/repos/bookorbit/bookorbit/issues/1269/reactions",
+          "total_count": 0,
+          "+1": 0,
+          "-1": 0,
+          "laugh": 0,
+          "hooray": 0,
+          "confused": 0,
+          "heart": 0,
+          "rocket": 0,
+          "eyes": 0
+        },
+        "timeline_url": "https://api.github.com/repos/bookorbit/bookorbit/issues/1269/timeline",
+        "performed_via_github_app": null,
+        "state_reason": null,
+        "pinned_comment": null
+      },
+      "comment": {
+        "url": "https://api.github.com/repos/bookorbit/bookorbit/issues/comments/5558983374",
+        "html_url": "https://github.com/bookorbit/bookorbit/issues/1269#issuecomment-5558983374",
+        "issue_url": "https://api.github.com/repos/bookorbit/bookorbit/issues/1269",
+        "id": 5558983374,
+        "node_id": "IC_kwDOSYR4sc8AAAABS1dazg",
+        "user": {
+          "login": "Binocularbath",
+          "id": 32312900,
+          "node_id": "MDQ6VXNlcjMyMzEyOTAw",
+          "avatar_url": "https://avatars.githubusercontent.com/u/32312900?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/Binocularbath",
+          "html_url": "https://github.com/Binocularbath",
+          "followers_url": "https://api.github.com/users/Binocularbath/followers",
+          "following_url": "https://api.github.com/users/Binocularbath/following{/other_user}",
+          "gists_url": "https://api.github.com/users/Binocularbath/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/Binocularbath/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/Binocularbath/subscriptions",
+          "organizations_url": "https://api.github.com/users/Binocularbath/orgs",
+          "repos_url": "https://api.github.com/users/Binocularbath/repos",
+          "events_url": "https://api.github.com/users/Binocularbath/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/Binocularbath/received_events",
+          "type": "User",
+          "user_view_type": "public",
+          "site_admin": false
+        },
+        "created_at": "2026-09-06T11:43:23Z",
+        "updated_at": "2026-09-06T11:43:23Z",
+        "body": "I'm interested in this too. Mainly for audio books",
+        "pin": null,
+        "reactions": {
+          "url": "https://api.github.com/repos/bookorbit/bookorbit/issues/comments/5558983374/reactions",
+          "total_count": 0,
+          "+1": 0,
+          "-1": 0,
+          "laugh": 0,
+          "hooray": 0,
+          "confused": 0,
+          "heart": 0,
+          "rocket": 0,
+          "eyes": 0
+        },
+        "performed_via_github_app": null,
+        "minimized": null
+      }
+    },
+    "public": true,
+    "created_at": "2026-09-06T11:43:23Z",
+    "org": {
+      "id": 279911312,
+      "login": "bookorbit",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/bookorbit",
+      "avatar_url": "https://avatars.githubusercontent.com/u/279911312?"
+    }
+  },
+  {
+    "id": "14515970097",
+    "type": "WatchEvent",
+    "actor": {
+      "id": 2234539,
+      "login": "0neSe7en",
+      "display_login": "0neSe7en",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/0neSe7en",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2234539?"
+    },
+    "repo": {
+      "id": 1233418417,
+      "name": "bookorbit/bookorbit",
+      "url": "https://api.github.com/repos/bookorbit/bookorbit"
+    },
+    "payload": {
+      "action": "started"
+    },
+    "public": true,
+    "created_at": "2026-09-06T11:36:24Z",
+    "org": {
+      "id": 279911312,
+      "login": "bookorbit",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/bookorbit",
+      "avatar_url": "https://avatars.githubusercontent.com/u/279911312?"
+    }
+  },
+  {
+    "id": "14515959434",
+    "type": "IssuesEvent",
+    "actor": {
+      "id": 18559658,
+      "login": "neonsolstice",
+      "display_login": "neonsolstice",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/neonsolstice",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18559658?"
+    },
+    "repo": {
+      "id": 1233418417,
+      "name": "bookorbit/bookorbit",
+      "url": "https://api.github.com/repos/bookorbit/bookorbit"
+    },
+    "payload": {
+      "action": "closed",
+      "issue": {
+        "url": "https://api.github.com/repos/bookorbit/bookorbit/issues/1278",
+        "repository_url": "https://api.github.com/repos/bookorbit/bookorbit",
+        "labels_url": "https://api.github.com/repos/bookorbit/bookorbit/issues/1278/labels{/name}",
+        "comments_url": "https://api.github.com/repos/bookorbit/bookorbit/issues/1278/comments",
+        "events_url": "https://api.github.com/repos/bookorbit/bookorbit/issues/1278/events",
+        "html_url": "https://github.com/bookorbit/bookorbit/issues/1278",
+        "id": 5353356855,
+        "node_id": "I_kwDOSYR4sc8AAAABPxW-Nw",
+        "number": 1278,
+        "title": "[Bug] Cant manually set up primary source",
+        "user": {
+          "login": "TheFatPanda-Dev",
+          "id": 46047869,
+          "node_id": "MDQ6VXNlcjQ2MDQ3ODY5",
+          "avatar_url": "https://avatars.githubusercontent.com/u/46047869?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/TheFatPanda-Dev",
+          "html_url": "https://github.com/TheFatPanda-Dev",
+          "followers_url": "https://api.github.com/users/TheFatPanda-Dev/followers",
+          "following_url": "https://api.github.com/users/TheFatPanda-Dev/following{/other_user}",
+          "gists_url": "https://api.github.com/users/TheFatPanda-Dev/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/TheFatPanda-Dev/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/TheFatPanda-Dev/subscriptions",
+          "organizations_url": "https://api.github.com/users/TheFatPanda-Dev/orgs",
+          "repos_url": "https://api.github.com/users/TheFatPanda-Dev/repos",
+          "events_url": "https://api.github.com/users/TheFatPanda-Dev/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/TheFatPanda-Dev/received_events",
+          "type": "User",
+          "user_view_type": "public",
+          "site_admin": false
+        },
+        "labels": [
+          {
+            "id": 10902169101,
+            "node_id": "LA_kwDOSYR4sc8AAAACidHmDQ",
+            "url": "https://api.github.com/repos/bookorbit/bookorbit/labels/bug",
+            "name": "bug",
+            "color": "ff2b4b",
+            "default": true,
+            "description": "Something isn't working"
+          }
+        ],
+        "state": "closed",
+        "locked": false,
+        "assignees": [
+
+        ],
+        "milestone": null,
+        "comments": 3,
+        "created_at": "2026-09-04T21:43:54Z",
+        "updated_at": "2026-09-06T11:35:58Z",
+        "closed_at": "2026-09-06T11:35:58Z",
+        "assignee": null,
+        "issue_field_values": [
+
+        ],
+        "type": null,
+        "active_lock_reason": null,
+        "sub_issues_summary": {
+          "total": 0,
+          "completed": 0,
+          "percent_completed": 0
+        },
+        "issue_dependencies_summary": {
+          "blocked_by": 0,
+          "total_blocked_by": 0,
+          "blocking": 0,
+          "total_blocking": 0
+        },
+        "body": "### What went wrong?\n\nFirst, I uploaded an EPUB file, then I added some MP3 files. After that, I deleted the original EPUB, which automatically set the MP3s as the primary source. But once I uploaded a new EPUB file, I couldn't figure out how to switch the primary source back to it.\n\n### Steps to reproduce\n\nUpload an EPUB file to the project/entry.\n\nUpload one or more MP3 files to the same entry.\n\nDelete the original EPUB file. (Note: The MP3 file is automatically set as the primary source).\n\nUpload a new EPUB file.\n\nAttempt to change the primary source back to the newly uploaded EPUB file\n\n### Expected vs actual behavior\n\nThere should be an option or setting to select and set the new EPUB file as the primary source.\n\n### Your setup\n\n- latest bookorbit\n- synology docker\n\n### Relevant logs (optional)\n\n```shell\n\n```\n\n### Screenshots (optional)\n\n_No response_\n\n### Before submitting\n\n- [x] I've searched existing issues and this hasn't been reported yet.\n- [x] If I implement this fix, I will wait for maintainer approval and assignment before writing code or opening a pull request.",
+        "reactions": {
+          "url": "https://api.github.com/repos/bookorbit/bookorbit/issues/1278/reactions",
+          "total_count": 0,
+          "+1": 0,
+          "-1": 0,
+          "laugh": 0,
+          "hooray": 0,
+          "confused": 0,
+          "heart": 0,
+          "rocket": 0,
+          "eyes": 0
+        },
+        "timeline_url": "https://api.github.com/repos/bookorbit/bookorbit/issues/1278/timeline",
+        "performed_via_github_app": null,
+        "state_reason": "completed",
+        "pinned_comment": null
+      }
+    },
+    "public": true,
+    "created_at": "2026-09-06T11:35:58Z",
+    "org": {
+      "id": 279911312,
+      "login": "bookorbit",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/bookorbit",
+      "avatar_url": "https://avatars.githubusercontent.com/u/279911312?"
+    }
+  },
+  {
+    "id": "14515956139",
+    "type": "IssueCommentEvent",
+    "actor": {
+      "id": 18559658,
+      "login": "neonsolstice",
+      "display_login": "neonsolstice",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/neonsolstice",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18559658?"
+    },
+    "repo": {
+      "id": 1233418417,
+      "name": "bookorbit/bookorbit",
+      "url": "https://api.github.com/repos/bookorbit/bookorbit"
+    },
+    "payload": {
+      "action": "created",
+      "issue": {
+        "url": "https://api.github.com/repos/bookorbit/bookorbit/issues/1278",
+        "repository_url": "https://api.github.com/repos/bookorbit/bookorbit",
+        "labels_url": "https://api.github.com/repos/bookorbit/bookorbit/issues/1278/labels{/name}",
+        "comments_url": "https://api.github.com/repos/bookorbit/bookorbit/issues/1278/comments",
+        "events_url": "https://api.github.com/repos/bookorbit/bookorbit/issues/1278/events",
+        "html_url": "https://github.com/bookorbit/bookorbit/issues/1278",
+        "id": 5353356855,
+        "node_id": "I_kwDOSYR4sc8AAAABPxW-Nw",
+        "number": 1278,
+        "title": "[Bug] Cant manually set up primary source",
+        "user": {
+          "login": "TheFatPanda-Dev",
+          "id": 46047869,
+          "node_id": "MDQ6VXNlcjQ2MDQ3ODY5",
+          "avatar_url": "https://avatars.githubusercontent.com/u/46047869?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/TheFatPanda-Dev",
+          "html_url": "https://github.com/TheFatPanda-Dev",
+          "followers_url": "https://api.github.com/users/TheFatPanda-Dev/followers",
+          "following_url": "https://api.github.com/users/TheFatPanda-Dev/following{/other_user}",
+          "gists_url": "https://api.github.com/users/TheFatPanda-Dev/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/TheFatPanda-Dev/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/TheFatPanda-Dev/subscriptions",
+          "organizations_url": "https://api.github.com/users/TheFatPanda-Dev/orgs",
+          "repos_url": "https://api.github.com/users/TheFatPanda-Dev/repos",
+          "events_url": "https://api.github.com/users/TheFatPanda-Dev/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/TheFatPanda-Dev/received_events",
+          "type": "User",
+          "user_view_type": "public",
+          "site_admin": false
+        },
+        "labels": [
+          {
+            "id": 10902169101,
+            "node_id": "LA_kwDOSYR4sc8AAAACidHmDQ",
+            "url": "https://api.github.com/repos/bookorbit/bookorbit/labels/bug",
+            "name": "bug",
+            "color": "ff2b4b",
+            "default": true,
+            "description": "Something isn't working"
+          }
+        ],
+        "state": "closed",
+        "locked": false,
+        "assignees": [
+
+        ],
+        "milestone": null,
+        "comments": 3,
+        "created_at": "2026-09-04T21:43:54Z",
+        "updated_at": "2026-09-06T11:35:58Z",
+        "closed_at": "2026-09-06T11:35:58Z",
+        "assignee": null,
+        "issue_field_values": [
+
+        ],
+        "type": null,
+        "active_lock_reason": null,
+        "sub_issues_summary": {
+          "total": 0,
+          "completed": 0,
+          "percent_completed": 0
+        },
+        "issue_dependencies_summary": {
+          "blocked_by": 0,
+          "total_blocked_by": 0,
+          "blocking": 0,
+          "total_blocking": 0
+        },
+        "body": "### What went wrong?\n\nFirst, I uploaded an EPUB file, then I added some MP3 files. After that, I deleted the original EPUB, which automatically set the MP3s as the primary source. But once I uploaded a new EPUB file, I couldn't figure out how to switch the primary source back to it.\n\n### Steps to reproduce\n\nUpload an EPUB file to the project/entry.\n\nUpload one or more MP3 files to the same entry.\n\nDelete the original EPUB file. (Note: The MP3 file is automatically set as the primary source).\n\nUpload a new EPUB file.\n\nAttempt to change the primary source back to the newly uploaded EPUB file\n\n### Expected vs actual behavior\n\nThere should be an option or setting to select and set the new EPUB file as the primary source.\n\n### Your setup\n\n- latest bookorbit\n- synology docker\n\n### Relevant logs (optional)\n\n```shell\n\n```\n\n### Screenshots (optional)\n\n_No response_\n\n### Before submitting\n\n- [x] I've searched existing issues and this hasn't been reported yet.\n- [x] If I implement this fix, I will wait for maintainer approval and assignment before writing code or opening a pull request.",
+        "reactions": {
+          "url": "https://api.github.com/repos/bookorbit/bookorbit/issues/1278/reactions",
+          "total_count": 0,
+          "+1": 0,
+          "-1": 0,
+          "laugh": 0,
+          "hooray": 0,
+          "confused": 0,
+          "heart": 0,
+          "rocket": 0,
+          "eyes": 0
+        },
+        "timeline_url": "https://api.github.com/repos/bookorbit/bookorbit/issues/1278/timeline",
+        "performed_via_github_app": null,
+        "state_reason": "completed",
+        "pinned_comment": null
+      },
+      "comment": {
+        "url": "https://api.github.com/repos/bookorbit/bookorbit/issues/comments/5558945952",
+        "html_url": "https://github.com/bookorbit/bookorbit/issues/1278#issuecomment-5558945952",
+        "issue_url": "https://api.github.com/repos/bookorbit/bookorbit/issues/1278",
+        "id": 5558945952,
+        "node_id": "IC_kwDOSYR4sc8AAAABS1bIoA",
+        "user": {
+          "login": "neonsolstice",
+          "id": 18559658,
+          "node_id": "MDQ6VXNlcjE4NTU5NjU4",
+          "avatar_url": "https://avatars.githubusercontent.com/u/18559658?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/neonsolstice",
+          "html_url": "https://github.com/neonsolstice",
+          "followers_url": "https://api.github.com/users/neonsolstice/followers",
+          "following_url": "https://api.github.com/users/neonsolstice/following{/other_user}",
+          "gists_url": "https://api.github.com/users/neonsolstice/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/neonsolstice/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/neonsolstice/subscriptions",
+          "organizations_url": "https://api.github.com/users/neonsolstice/orgs",
+          "repos_url": "https://api.github.com/users/neonsolstice/repos",
+          "events_url": "https://api.github.com/users/neonsolstice/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/neonsolstice/received_events",
+          "type": "User",
+          "user_view_type": "public",
+          "site_admin": false
+        },
+        "created_at": "2026-09-06T11:35:49Z",
+        "updated_at": "2026-09-06T11:35:49Z",
+        "body": "@TheFatPanda-Dev Must be some caching issue. I'm closing the issue for now, if the problem comes up again feel free to repoen it. Thanks!",
+        "pin": null,
+        "reactions": {
+          "url": "https://api.github.com/repos/bookorbit/bookorbit/issues/comments/5558945952/reactions",
+          "total_count": 0,
+          "+1": 0,
+          "-1": 0,
+          "laugh": 0,
+          "hooray": 0,
+          "confused": 0,
+          "heart": 0,
+          "rocket": 0,
+          "eyes": 0
+        },
+        "performed_via_github_app": null,
+        "minimized": null
+      }
+    },
+    "public": true,
+    "created_at": "2026-09-06T11:35:49Z",
+    "org": {
+      "id": 279911312,
+      "login": "bookorbit",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/bookorbit",
+      "avatar_url": "https://avatars.githubusercontent.com/u/279911312?"
+    }
+  },
+  {
+    "id": "14515918945",
+    "type": "IssueCommentEvent",
+    "actor": {
+      "id": 46047869,
+      "login": "TheFatPanda-Dev",
+      "display_login": "TheFatPanda-Dev",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/TheFatPanda-Dev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/46047869?"
+    },
+    "repo": {
+      "id": 1233418417,
+      "name": "bookorbit/bookorbit",
+      "url": "https://api.github.com/repos/bookorbit/bookorbit"
+    },
+    "payload": {
+      "action": "created",
+      "issue": {
+        "url": "https://api.github.com/repos/bookorbit/bookorbit/issues/1278",
+        "repository_url": "https://api.github.com/repos/bookorbit/bookorbit",
+        "labels_url": "https://api.github.com/repos/bookorbit/bookorbit/issues/1278/labels{/name}",
+        "comments_url": "https://api.github.com/repos/bookorbit/bookorbit/issues/1278/comments",
+        "events_url": "https://api.github.com/repos/bookorbit/bookorbit/issues/1278/events",
+        "html_url": "https://github.com/bookorbit/bookorbit/issues/1278",
+        "id": 5353356855,
+        "node_id": "I_kwDOSYR4sc8AAAABPxW-Nw",
+        "number": 1278,
+        "title": "[Bug] Cant manually set up primary source",
+        "user": {
+          "login": "TheFatPanda-Dev",
+          "id": 46047869,
+          "node_id": "MDQ6VXNlcjQ2MDQ3ODY5",
+          "avatar_url": "https://avatars.githubusercontent.com/u/46047869?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/TheFatPanda-Dev",
+          "html_url": "https://github.com/TheFatPanda-Dev",
+          "followers_url": "https://api.github.com/users/TheFatPanda-Dev/followers",
+          "following_url": "https://api.github.com/users/TheFatPanda-Dev/following{/other_user}",
+          "gists_url": "https://api.github.com/users/TheFatPanda-Dev/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/TheFatPanda-Dev/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/TheFatPanda-Dev/subscriptions",
+          "organizations_url": "https://api.github.com/users/TheFatPanda-Dev/orgs",
+          "repos_url": "https://api.github.com/users/TheFatPanda-Dev/repos",
+          "events_url": "https://api.github.com/users/TheFatPanda-Dev/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/TheFatPanda-Dev/received_events",
+          "type": "User",
+          "user_view_type": "public",
+          "site_admin": false
+        },
+        "labels": [
+          {
+            "id": 10902169101,
+            "node_id": "LA_kwDOSYR4sc8AAAACidHmDQ",
+            "url": "https://api.github.com/repos/bookorbit/bookorbit/labels/bug",
+            "name": "bug",
+            "color": "ff2b4b",
+            "default": true,
+            "description": "Something isn't working"
+          }
+        ],
+        "state": "closed",
+        "locked": false,
+        "assignees": [
+
+        ],
+        "milestone": null,
+        "comments": 3,
+        "created_at": "2026-09-04T21:43:54Z",
+        "updated_at": "2026-09-06T11:35:58Z",
+        "closed_at": "2026-09-06T11:35:58Z",
+        "assignee": null,
+        "issue_field_values": [
+
+        ],
+        "type": null,
+        "active_lock_reason": null,
+        "sub_issues_summary": {
+          "total": 0,
+          "completed": 0,
+          "percent_completed": 0
+        },
+        "issue_dependencies_summary": {
+          "blocked_by": 0,
+          "total_blocked_by": 0,
+          "blocking": 0,
+          "total_blocking": 0
+        },
+        "body": "### What went wrong?\n\nFirst, I uploaded an EPUB file, then I added some MP3 files. After that, I deleted the original EPUB, which automatically set the MP3s as the primary source. But once I uploaded a new EPUB file, I couldn't figure out how to switch the primary source back to it.\n\n### Steps to reproduce\n\nUpload an EPUB file to the project/entry.\n\nUpload one or more MP3 files to the same entry.\n\nDelete the original EPUB file. (Note: The MP3 file is automatically set as the primary source).\n\nUpload a new EPUB file.\n\nAttempt to change the primary source back to the newly uploaded EPUB file\n\n### Expected vs actual behavior\n\nThere should be an option or setting to select and set the new EPUB file as the primary source.\n\n### Your setup\n\n- latest bookorbit\n- synology docker\n\n### Relevant logs (optional)\n\n```shell\n\n```\n\n### Screenshots (optional)\n\n_No response_\n\n### Before submitting\n\n- [x] I've searched existing issues and this hasn't been reported yet.\n- [x] If I implement this fix, I will wait for maintainer approval and assignment before writing code or opening a pull request.",
+        "reactions": {
+          "url": "https://api.github.com/repos/bookorbit/bookorbit/issues/1278/reactions",
+          "total_count": 0,
+          "+1": 0,
+          "-1": 0,
+          "laugh": 0,
+          "hooray": 0,
+          "confused": 0,
+          "heart": 0,
+          "rocket": 0,
+          "eyes": 0
+        },
+        "timeline_url": "https://api.github.com/repos/bookorbit/bookorbit/issues/1278/timeline",
+        "performed_via_github_app": null,
+        "state_reason": "completed",
+        "pinned_comment": null
+      },
+      "comment": {
+        "url": "https://api.github.com/repos/bookorbit/bookorbit/issues/comments/5558937990",
+        "html_url": "https://github.com/bookorbit/bookorbit/issues/1278#issuecomment-5558937990",
+        "issue_url": "https://api.github.com/repos/bookorbit/bookorbit/issues/1278",
+        "id": 5558937990,
+        "node_id": "IC_kwDOSYR4sc8AAAABS1aphg",
+        "user": {
+          "login": "TheFatPanda-Dev",
+          "id": 46047869,
+          "node_id": "MDQ6VXNlcjQ2MDQ3ODY5",
+          "avatar_url": "https://avatars.githubusercontent.com/u/46047869?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/TheFatPanda-Dev",
+          "html_url": "https://github.com/TheFatPanda-Dev",
+          "followers_url": "https://api.github.com/users/TheFatPanda-Dev/followers",
+          "following_url": "https://api.github.com/users/TheFatPanda-Dev/following{/other_user}",
+          "gists_url": "https://api.github.com/users/TheFatPanda-Dev/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/TheFatPanda-Dev/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/TheFatPanda-Dev/subscriptions",
+          "organizations_url": "https://api.github.com/users/TheFatPanda-Dev/orgs",
+          "repos_url": "https://api.github.com/users/TheFatPanda-Dev/repos",
+          "events_url": "https://api.github.com/users/TheFatPanda-Dev/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/TheFatPanda-Dev/received_events",
+          "type": "User",
+          "user_view_type": "public",
+          "site_admin": false
+        },
+        "created_at": "2026-09-06T11:34:14Z",
+        "updated_at": "2026-09-06T11:34:59Z",
+        "body": "Hi, @neonsolstice \n\nIt’s showing the EPUB now. Last time, I kept refreshing because I knew the priority was already set in the settings, so it might have just been a caching issue. I'm using the latest v2.8.1.",
+        "pin": null,
+        "reactions": {
+          "url": "https://api.github.com/repos/bookorbit/bookorbit/issues/comments/5558937990/reactions",
+          "total_count": 0,
+          "+1": 0,
+          "-1": 0,
+          "laugh": 0,
+          "hooray": 0,
+          "confused": 0,
+          "heart": 0,
+          "rocket": 0,
+          "eyes": 0
+        },
+        "performed_via_github_app": null,
+        "minimized": null
+      }
+    },
+    "public": true,
+    "created_at": "2026-09-06T11:34:14Z",
+    "org": {
+      "id": 279911312,
+      "login": "bookorbit",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/bookorbit",
+      "avatar_url": "https://avatars.githubusercontent.com/u/279911312?"
+    }
+  },
+  {
+    "id": "14515822231",
+    "type": "IssueCommentEvent",
+    "actor": {
+      "id": 18559658,
+      "login": "neonsolstice",
+      "display_login": "neonsolstice",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/neonsolstice",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18559658?"
+    },
+    "repo": {
+      "id": 1233418417,
+      "name": "bookorbit/bookorbit",
+      "url": "https://api.github.com/repos/bookorbit/bookorbit"
+    },
+    "payload": {
+      "action": "created",
+      "issue": {
+        "url": "https://api.github.com/repos/bookorbit/bookorbit/issues/1278",
+        "repository_url": "https://api.github.com/repos/bookorbit/bookorbit",
+        "labels_url": "https://api.github.com/repos/bookorbit/bookorbit/issues/1278/labels{/name}",
+        "comments_url": "https://api.github.com/repos/bookorbit/bookorbit/issues/1278/comments",
+        "events_url": "https://api.github.com/repos/bookorbit/bookorbit/issues/1278/events",
+        "html_url": "https://github.com/bookorbit/bookorbit/issues/1278",
+        "id": 5353356855,
+        "node_id": "I_kwDOSYR4sc8AAAABPxW-Nw",
+        "number": 1278,
+        "title": "[Bug] Cant manually set up primary source",
+        "user": {
+          "login": "TheFatPanda-Dev",
+          "id": 46047869,
+          "node_id": "MDQ6VXNlcjQ2MDQ3ODY5",
+          "avatar_url": "https://avatars.githubusercontent.com/u/46047869?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/TheFatPanda-Dev",
+          "html_url": "https://github.com/TheFatPanda-Dev",
+          "followers_url": "https://api.github.com/users/TheFatPanda-Dev/followers",
+          "following_url": "https://api.github.com/users/TheFatPanda-Dev/following{/other_user}",
+          "gists_url": "https://api.github.com/users/TheFatPanda-Dev/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/TheFatPanda-Dev/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/TheFatPanda-Dev/subscriptions",
+          "organizations_url": "https://api.github.com/users/TheFatPanda-Dev/orgs",
+          "repos_url": "https://api.github.com/users/TheFatPanda-Dev/repos",
+          "events_url": "https://api.github.com/users/TheFatPanda-Dev/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/TheFatPanda-Dev/received_events",
+          "type": "User",
+          "user_view_type": "public",
+          "site_admin": false
+        },
+        "labels": [
+          {
+            "id": 10902169101,
+            "node_id": "LA_kwDOSYR4sc8AAAACidHmDQ",
+            "url": "https://api.github.com/repos/bookorbit/bookorbit/labels/bug",
+            "name": "bug",
+            "color": "ff2b4b",
+            "default": true,
+            "description": "Something isn't working"
+          }
+        ],
+        "state": "closed",
+        "locked": false,
+        "assignees": [
+
+        ],
+        "milestone": null,
+        "comments": 3,
+        "created_at": "2026-09-04T21:43:54Z",
+        "updated_at": "2026-09-06T11:35:58Z",
+        "closed_at": "2026-09-06T11:35:58Z",
+        "assignee": null,
+        "issue_field_values": [
+
+        ],
+        "type": null,
+        "active_lock_reason": null,
+        "sub_issues_summary": {
+          "total": 0,
+          "completed": 0,
+          "percent_completed": 0
+        },
+        "issue_dependencies_summary": {
+          "blocked_by": 0,
+          "total_blocked_by": 0,
+          "blocking": 0,
+          "total_blocking": 0
+        },
+        "body": "### What went wrong?\n\nFirst, I uploaded an EPUB file, then I added some MP3 files. After that, I deleted the original EPUB, which automatically set the MP3s as the primary source. But once I uploaded a new EPUB file, I couldn't figure out how to switch the primary source back to it.\n\n### Steps to reproduce\n\nUpload an EPUB file to the project/entry.\n\nUpload one or more MP3 files to the same entry.\n\nDelete the original EPUB file. (Note: The MP3 file is automatically set as the primary source).\n\nUpload a new EPUB file.\n\nAttempt to change the primary source back to the newly uploaded EPUB file\n\n### Expected vs actual behavior\n\nThere should be an option or setting to select and set the new EPUB file as the primary source.\n\n### Your setup\n\n- latest bookorbit\n- synology docker\n\n### Relevant logs (optional)\n\n```shell\n\n```\n\n### Screenshots (optional)\n\n_No response_\n\n### Before submitting\n\n- [x] I've searched existing issues and this hasn't been reported yet.\n- [x] If I implement this fix, I will wait for maintainer approval and assignment before writing code or opening a pull request.",
+        "reactions": {
+          "url": "https://api.github.com/repos/bookorbit/bookorbit/issues/1278/reactions",
+          "total_count": 0,
+          "+1": 0,
+          "-1": 0,
+          "laugh": 0,
+          "hooray": 0,
+          "confused": 0,
+          "heart": 0,
+          "rocket": 0,
+          "eyes": 0
+        },
+        "timeline_url": "https://api.github.com/repos/bookorbit/bookorbit/issues/1278/timeline",
+        "performed_via_github_app": null,
+        "state_reason": "completed",
+        "pinned_comment": null
+      },
+      "comment": {
+        "url": "https://api.github.com/repos/bookorbit/bookorbit/issues/comments/5558917508",
+        "html_url": "https://github.com/bookorbit/bookorbit/issues/1278#issuecomment-5558917508",
+        "issue_url": "https://api.github.com/repos/bookorbit/bookorbit/issues/1278",
+        "id": 5558917508,
+        "node_id": "IC_kwDOSYR4sc8AAAABS1ZZhA",
+        "user": {
+          "login": "neonsolstice",
+          "id": 18559658,
+          "node_id": "MDQ6VXNlcjE4NTU5NjU4",
+          "avatar_url": "https://avatars.githubusercontent.com/u/18559658?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/neonsolstice",
+          "html_url": "https://github.com/neonsolstice",
+          "followers_url": "https://api.github.com/users/neonsolstice/followers",
+          "following_url": "https://api.github.com/users/neonsolstice/following{/other_user}",
+          "gists_url": "https://api.github.com/users/neonsolstice/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/neonsolstice/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/neonsolstice/subscriptions",
+          "organizations_url": "https://api.github.com/users/neonsolstice/orgs",
+          "repos_url": "https://api.github.com/users/neonsolstice/repos",
+          "events_url": "https://api.github.com/users/neonsolstice/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/neonsolstice/received_events",
+          "type": "User",
+          "user_view_type": "public",
+          "site_admin": false
+        },
+        "created_at": "2026-09-06T11:30:06Z",
+        "updated_at": "2026-09-06T11:30:06Z",
+        "body": "Hi @TheFatPanda-Dev \n\nBookOrbit automatically selects the primary file using the library’s Format Priority, so an EPUB ranked above MP3 should become primary after upload. Could you confirm your exact BookOrbit version, the configured priority order, and whether the EPUB remains non-primary after refreshing the page?",
+        "pin": null,
+        "reactions": {
+          "url": "https://api.github.com/repos/bookorbit/bookorbit/issues/comments/5558917508/reactions",
+          "total_count": 0,
+          "+1": 0,
+          "-1": 0,
+          "laugh": 0,
+          "hooray": 0,
+          "confused": 0,
+          "heart": 0,
+          "rocket": 0,
+          "eyes": 0
+        },
+        "performed_via_github_app": null,
+        "minimized": null
+      }
+    },
+    "public": true,
+    "created_at": "2026-09-06T11:30:06Z",
+    "org": {
+      "id": 279911312,
+      "login": "bookorbit",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/bookorbit",
+      "avatar_url": "https://avatars.githubusercontent.com/u/279911312?"
+    }
+  },
+  {
+    "id": "14515771174",
+    "type": "ForkEvent",
+    "actor": {
+      "id": 70487183,
+      "login": "PrajjuS",
+      "display_login": "PrajjuS",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/PrajjuS",
+      "avatar_url": "https://avatars.githubusercontent.com/u/70487183?"
+    },
+    "repo": {
+      "id": 1233418417,
+      "name": "bookorbit/bookorbit",
+      "url": "https://api.github.com/repos/bookorbit/bookorbit"
+    },
+    "payload": {
+      "action": "forked",
+      "forkee": {
+        "id": 1359075265,
+        "node_id": "R_kgDOUQHXwQ",
+        "name": "bookorbit",
+        "full_name": "PrajjuS/bookorbit",
+        "private": false,
+        "owner": {
+          "login": "PrajjuS",
+          "id": 70487183,
+          "node_id": "MDQ6VXNlcjcwNDg3MTgz",
+          "avatar_url": "https://avatars.githubusercontent.com/u/70487183?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/PrajjuS",
+          "html_url": "https://github.com/PrajjuS",
+          "followers_url": "https://api.github.com/users/PrajjuS/followers",
+          "following_url": "https://api.github.com/users/PrajjuS/following{/other_user}",
+          "gists_url": "https://api.github.com/users/PrajjuS/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/PrajjuS/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/PrajjuS/subscriptions",
+          "organizations_url": "https://api.github.com/users/PrajjuS/orgs",
+          "repos_url": "https://api.github.com/users/PrajjuS/repos",
+          "events_url": "https://api.github.com/users/PrajjuS/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/PrajjuS/received_events",
+          "type": "User",
+          "user_view_type": "public",
+          "site_admin": false
+        },
+        "html_url": "https://github.com/PrajjuS/bookorbit",
+        "description": "BookOrbit: Your Reading Space",
+        "fork": true,
+        "url": "https://api.github.com/repos/PrajjuS/bookorbit",
+        "forks_url": "https://api.github.com/repos/PrajjuS/bookorbit/forks",
+        "keys_url": "https://api.github.com/repos/PrajjuS/bookorbit/keys{/key_id}",
+        "collaborators_url": "https://api.github.com/repos/PrajjuS/bookorbit/collaborators{/collaborator}",
+        "teams_url": "https://api.github.com/repos/PrajjuS/bookorbit/teams",
+        "hooks_url": "https://api.github.com/repos/PrajjuS/bookorbit/hooks",
+        "issue_events_url": "https://api.github.com/repos/PrajjuS/bookorbit/issues/events{/number}",
+        "events_url": "https://api.github.com/repos/PrajjuS/bookorbit/events",
+        "assignees_url": "https://api.github.com/repos/PrajjuS/bookorbit/assignees{/user}",
+        "branches_url": "https://api.github.com/repos/PrajjuS/bookorbit/branches{/branch}",
+        "tags_url": "https://api.github.com/repos/PrajjuS/bookorbit/tags",
+        "blobs_url": "https://api.github.com/repos/PrajjuS/bookorbit/git/blobs{/sha}",
+        "git_tags_url": "https://api.github.com/repos/PrajjuS/bookorbit/git/tags{/sha}",
+        "git_refs_url": "https://api.github.com/repos/PrajjuS/bookorbit/git/refs{/sha}",
+        "trees_url": "https://api.github.com/repos/PrajjuS/bookorbit/git/trees{/sha}",
+        "statuses_url": "https://api.github.com/repos/PrajjuS/bookorbit/statuses/{sha}",
+        "languages_url": "https://api.github.com/repos/PrajjuS/bookorbit/languages",
+        "stargazers_url": "https://api.github.com/repos/PrajjuS/bookorbit/stargazers",
+        "contributors_url": "https://api.github.com/repos/PrajjuS/bookorbit/contributors",
+        "subscribers_url": "https://api.github.com/repos/PrajjuS/bookorbit/subscribers",
+        "subscription_url": "https://api.github.com/repos/PrajjuS/bookorbit/subscription",
+        "commits_url": "https://api.github.com/repos/PrajjuS/bookorbit/commits{/sha}",
+        "git_commits_url": "https://api.github.com/repos/PrajjuS/bookorbit/git/commits{/sha}",
+        "comments_url": "https://api.github.com/repos/PrajjuS/bookorbit/comments{/number}",
+        "issue_comment_url": "https://api.github.com/repos/PrajjuS/bookorbit/issues/comments{/number}",
+        "contents_url": "https://api.github.com/repos/PrajjuS/bookorbit/contents/{+path}",
+        "compare_url": "https://api.github.com/repos/PrajjuS/bookorbit/compare/{base}...{head}",
+        "merges_url": "https://api.github.com/repos/PrajjuS/bookorbit/merges",
+        "archive_url": "https://api.github.com/repos/PrajjuS/bookorbit/{archive_format}{/ref}",
+        "downloads_url": "https://api.github.com/repos/PrajjuS/bookorbit/downloads",
+        "issues_url": "https://api.github.com/repos/PrajjuS/bookorbit/issues{/number}",
+        "pulls_url": "https://api.github.com/repos/PrajjuS/bookorbit/pulls{/number}",
+        "milestones_url": "https://api.github.com/repos/PrajjuS/bookorbit/milestones{/number}",
+        "notifications_url": "https://api.github.com/repos/PrajjuS/bookorbit/notifications{?since,all,participating}",
+        "labels_url": "https://api.github.com/repos/PrajjuS/bookorbit/labels{/name}",
+        "releases_url": "https://api.github.com/repos/PrajjuS/bookorbit/releases{/id}",
+        "deployments_url": "https://api.github.com/repos/PrajjuS/bookorbit/deployments",
+        "created_at": "2026-09-06T11:27:50Z",
+        "updated_at": "2026-09-06T11:27:51Z",
+        "pushed_at": "2026-09-06T11:19:06Z",
+        "git_url": "git://github.com/PrajjuS/bookorbit.git",
+        "ssh_url": "git@github.com:PrajjuS/bookorbit.git",
+        "clone_url": "https://github.com/PrajjuS/bookorbit.git",
+        "svn_url": "https://github.com/PrajjuS/bookorbit",
+        "homepage": "https://bookorbit.app",
+        "size": 96323,
+        "stargazers_count": 0,
+        "watchers_count": 0,
+        "language": null,
+        "has_issues": false,
+        "has_projects": true,
+        "has_downloads": false,
+        "has_wiki": false,
+        "has_pages": false,
+        "has_discussions": false,
+        "forks_count": 0,
+        "mirror_url": null,
+        "archived": false,
+        "disabled": false,
+        "open_issues_count": 0,
+        "license": {
+          "key": "agpl-3.0",
+          "name": "GNU Affero General Public License v3.0",
+          "spdx_id": "AGPL-3.0",
+          "url": "https://api.github.com/licenses/agpl-3.0",
+          "node_id": "MDc6TGljZW5zZTE="
+        },
+        "allow_forking": true,
+        "is_template": false,
+        "web_commit_signoff_required": true,
+        "has_pull_requests": true,
+        "pull_request_creation_policy": "all",
+        "topics": [
+
+        ],
+        "visibility": "public",
+        "forks": 0,
+        "open_issues": 0,
+        "watchers": 0,
+        "default_branch": "main"
+      }
+    },
+    "public": true,
+    "created_at": "2026-09-06T11:27:50Z",
+    "org": {
+      "id": 279911312,
+      "login": "bookorbit",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/bookorbit",
+      "avatar_url": "https://avatars.githubusercontent.com/u/279911312?"
+    }
+  },
+  {
+    "id": "20234851634",
+    "type": "PushEvent",
+    "actor": {
+      "id": 41898282,
+      "login": "github-actions[bot]",
+      "display_login": "github-actions",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/github-actions[bot]",
+      "avatar_url": "https://avatars.githubusercontent.com/u/41898282?"
+    },
+    "repo": {
+      "id": 1233418417,
+      "name": "bookorbit/bookorbit",
+      "url": "https://api.github.com/repos/bookorbit/bookorbit"
+    },
+    "payload": {
+      "repository_id": 1233418417,
+      "push_id": 42733347930,
+      "ref": "refs/heads/generated-charts",
+      "head": "82b629da9937ae522a504ea055816312dde1122e",
+      "before": "7d52756ea4377226624f679c6f70defba57a36ce"
+    },
+    "public": true,
+    "created_at": "2026-09-06T11:19:07Z",
+    "org": {
+      "id": 279911312,
+      "login": "bookorbit",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/bookorbit",
+      "avatar_url": "https://avatars.githubusercontent.com/u/279911312?"
+    }
+  },
+  {
+    "id": "14515449917",
+    "type": "WatchEvent",
+    "actor": {
+      "id": 118204953,
+      "login": "PatrikFonos1",
+      "display_login": "PatrikFonos1",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/PatrikFonos1",
+      "avatar_url": "https://avatars.githubusercontent.com/u/118204953?"
+    },
+    "repo": {
+      "id": 1233418417,
+      "name": "bookorbit/bookorbit",
+      "url": "https://api.github.com/repos/bookorbit/bookorbit"
+    },
+    "payload": {
+      "action": "started"
+    },
+    "public": true,
+    "created_at": "2026-09-06T11:14:06Z",
+    "org": {
+      "id": 279911312,
+      "login": "bookorbit",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/bookorbit",
+      "avatar_url": "https://avatars.githubusercontent.com/u/279911312?"
+    }
+  },
+  {
+    "id": "14514142552",
+    "type": "WatchEvent",
+    "actor": {
+      "id": 183255418,
+      "login": "roskanimeni",
+      "display_login": "roskanimeni",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/roskanimeni",
+      "avatar_url": "https://avatars.githubusercontent.com/u/183255418?"
+    },
+    "repo": {
+      "id": 1233418417,
+      "name": "bookorbit/bookorbit",
+      "url": "https://api.github.com/repos/bookorbit/bookorbit"
+    },
+    "payload": {
+      "action": "started"
+    },
+    "public": true,
+    "created_at": "2026-09-06T10:17:18Z",
+    "org": {
+      "id": 279911312,
+      "login": "bookorbit",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/bookorbit",
+      "avatar_url": "https://avatars.githubusercontent.com/u/279911312?"
+    }
+  },
+  {
+    "id": "14513892141",
+    "type": "ForkEvent",
+    "actor": {
+      "id": 1773514,
+      "login": "nellistc",
+      "display_login": "nellistc",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/nellistc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1773514?"
+    },
+    "repo": {
+      "id": 1233418417,
+      "name": "bookorbit/bookorbit",
+      "url": "https://api.github.com/repos/bookorbit/bookorbit"
+    },
+    "payload": {
+      "action": "forked",
+      "forkee": {
+        "id": 1359017185,
+        "node_id": "R_kgDOUQD04Q",
+        "name": "bookorbit",
+        "full_name": "nellistc/bookorbit",
+        "private": false,
+        "owner": {
+          "login": "nellistc",
+          "id": 1773514,
+          "node_id": "MDQ6VXNlcjE3NzM1MTQ=",
+          "avatar_url": "https://avatars.githubusercontent.com/u/1773514?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/nellistc",
+          "html_url": "https://github.com/nellistc",
+          "followers_url": "https://api.github.com/users/nellistc/followers",
+          "following_url": "https://api.github.com/users/nellistc/following{/other_user}",
+          "gists_url": "https://api.github.com/users/nellistc/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/nellistc/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/nellistc/subscriptions",
+          "organizations_url": "https://api.github.com/users/nellistc/orgs",
+          "repos_url": "https://api.github.com/users/nellistc/repos",
+          "events_url": "https://api.github.com/users/nellistc/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/nellistc/received_events",
+          "type": "User",
+          "user_view_type": "public",
+          "site_admin": false
+        },
+        "html_url": "https://github.com/nellistc/bookorbit",
+        "description": "BookOrbit: Your Reading Space",
+        "fork": true,
+        "url": "https://api.github.com/repos/nellistc/bookorbit",
+        "forks_url": "https://api.github.com/repos/nellistc/bookorbit/forks",
+        "keys_url": "https://api.github.com/repos/nellistc/bookorbit/keys{/key_id}",
+        "collaborators_url": "https://api.github.com/repos/nellistc/bookorbit/collaborators{/collaborator}",
+        "teams_url": "https://api.github.com/repos/nellistc/bookorbit/teams",
+        "hooks_url": "https://api.github.com/repos/nellistc/bookorbit/hooks",
+        "issue_events_url": "https://api.github.com/repos/nellistc/bookorbit/issues/events{/number}",
+        "events_url": "https://api.github.com/repos/nellistc/bookorbit/events",
+        "assignees_url": "https://api.github.com/repos/nellistc/bookorbit/assignees{/user}",
+        "branches_url": "https://api.github.com/repos/nellistc/bookorbit/branches{/branch}",
+        "tags_url": "https://api.github.com/repos/nellistc/bookorbit/tags",
+        "blobs_url": "https://api.github.com/repos/nellistc/bookorbit/git/blobs{/sha}",
+        "git_tags_url": "https://api.github.com/repos/nellistc/bookorbit/git/tags{/sha}",
+        "git_refs_url": "https://api.github.com/repos/nellistc/bookorbit/git/refs{/sha}",
+        "trees_url": "https://api.github.com/repos/nellistc/bookorbit/git/trees{/sha}",
+        "statuses_url": "https://api.github.com/repos/nellistc/bookorbit/statuses/{sha}",
+        "languages_url": "https://api.github.com/repos/nellistc/bookorbit/languages",
+        "stargazers_url": "https://api.github.com/repos/nellistc/bookorbit/stargazers",
+        "contributors_url": "https://api.github.com/repos/nellistc/bookorbit/contributors",
+        "subscribers_url": "https://api.github.com/repos/nellistc/bookorbit/subscribers",
+        "subscription_url": "https://api.github.com/repos/nellistc/bookorbit/subscription",
+        "commits_url": "https://api.github.com/repos/nellistc/bookorbit/commits{/sha}",
+        "git_commits_url": "https://api.github.com/repos/nellistc/bookorbit/git/commits{/sha}",
+        "comments_url": "https://api.github.com/repos/nellistc/bookorbit/comments{/number}",
+        "issue_comment_url": "https://api.github.com/repos/nellistc/bookorbit/issues/comments{/number}",
+        "contents_url": "https://api.github.com/repos/nellistc/bookorbit/contents/{+path}",
+        "compare_url": "https://api.github.com/repos/nellistc/bookorbit/compare/{base}...{head}",
+        "merges_url": "https://api.github.com/repos/nellistc/bookorbit/merges",
+        "archive_url": "https://api.github.com/repos/nellistc/bookorbit/{archive_format}{/ref}",
+        "downloads_url": "https://api.github.com/repos/nellistc/bookorbit/downloads",
+        "issues_url": "https://api.github.com/repos/nellistc/bookorbit/issues{/number}",
+        "pulls_url": "https://api.github.com/repos/nellistc/bookorbit/pulls{/number}",
+        "milestones_url": "https://api.github.com/repos/nellistc/bookorbit/milestones{/number}",
+        "notifications_url": "https://api.github.com/repos/nellistc/bookorbit/notifications{?since,all,participating}",
+        "labels_url": "https://api.github.com/repos/nellistc/bookorbit/labels{/name}",
+        "releases_url": "https://api.github.com/repos/nellistc/bookorbit/releases{/id}",
+        "deployments_url": "https://api.github.com/repos/nellistc/bookorbit/deployments",
+        "created_at": "2026-09-06T10:06:35Z",
+        "updated_at": "2026-09-06T10:06:35Z",
+        "pushed_at": "2026-09-06T09:46:18Z",
+        "git_url": "git://github.com/nellistc/bookorbit.git",
+        "ssh_url": "git@github.com:nellistc/bookorbit.git",
+        "clone_url": "https://github.com/nellistc/bookorbit.git",
+        "svn_url": "https://github.com/nellistc/bookorbit",
+        "homepage": "https://bookorbit.app",
+        "size": 96691,
+        "stargazers_count": 0,
+        "watchers_count": 0,
+        "language": null,
+        "has_issues": false,
+        "has_projects": true,
+        "has_downloads": false,
+        "has_wiki": false,
+        "has_pages": false,
+        "has_discussions": false,
+        "forks_count": 0,
+        "mirror_url": null,
+        "archived": false,
+        "disabled": false,
+        "open_issues_count": 0,
+        "license": {
+          "key": "agpl-3.0",
+          "name": "GNU Affero General Public License v3.0",
+          "spdx_id": "AGPL-3.0",
+          "url": "https://api.github.com/licenses/agpl-3.0",
+          "node_id": "MDc6TGljZW5zZTE="
+        },
+        "allow_forking": true,
+        "is_template": false,
+        "web_commit_signoff_required": true,
+        "has_pull_requests": true,
+        "pull_request_creation_policy": "all",
+        "topics": [
+
+        ],
+        "visibility": "public",
+        "forks": 0,
+        "open_issues": 0,
+        "watchers": 0,
+        "default_branch": "main"
+      }
+    },
+    "public": true,
+    "created_at": "2026-09-06T10:06:35Z",
+    "org": {
+      "id": 279911312,
+      "login": "bookorbit",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/bookorbit",
+      "avatar_url": "https://avatars.githubusercontent.com/u/279911312?"
+    }
+  },
+  {
+    "id": "14512735193",
+    "type": "WatchEvent",
+    "actor": {
+      "id": 43019162,
+      "login": "StarrFox",
+      "display_login": "StarrFox",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/StarrFox",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43019162?"
+    },
+    "repo": {
+      "id": 1233418417,
+      "name": "bookorbit/bookorbit",
+      "url": "https://api.github.com/repos/bookorbit/bookorbit"
+    },
+    "payload": {
+      "action": "started"
+    },
+    "public": true,
+    "created_at": "2026-09-06T09:16:59Z",
+    "org": {
+      "id": 279911312,
+      "login": "bookorbit",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/bookorbit",
+      "avatar_url": "https://avatars.githubusercontent.com/u/279911312?"
+    }
+  },
+  {
+    "id": "14512656618",
+    "type": "IssuesEvent",
+    "actor": {
+      "id": 7261297,
+      "login": "lseufer",
+      "display_login": "lseufer",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/lseufer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7261297?"
+    },
+    "repo": {
+      "id": 1233418417,
+      "name": "bookorbit/bookorbit",
+      "url": "https://api.github.com/repos/bookorbit/bookorbit"
+    },
+    "payload": {
+      "action": "labeled",
+      "issue": {
+        "url": "https://api.github.com/repos/bookorbit/bookorbit/issues/1296",
+        "repository_url": "https://api.github.com/repos/bookorbit/bookorbit",
+        "labels_url": "https://api.github.com/repos/bookorbit/bookorbit/issues/1296/labels{/name}",
+        "comments_url": "https://api.github.com/repos/bookorbit/bookorbit/issues/1296/comments",
+        "events_url": "https://api.github.com/repos/bookorbit/bookorbit/issues/1296/events",
+        "html_url": "https://github.com/bookorbit/bookorbit/issues/1296",
+        "id": 5364061742,
+        "node_id": "I_kwDOSYR4sc8AAAABP7kWLg",
+        "number": 1296,
+        "title": "[Bug] Audiobook progress updates (e.g. from Morrow) do not trigger automatic Hardcover sync",
+        "user": {
+          "login": "lseufer",
+          "id": 7261297,
+          "node_id": "MDQ6VXNlcjcyNjEyOTc=",
+          "avatar_url": "https://avatars.githubusercontent.com/u/7261297?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/lseufer",
+          "html_url": "https://github.com/lseufer",
+          "followers_url": "https://api.github.com/users/lseufer/followers",
+          "following_url": "https://api.github.com/users/lseufer/following{/other_user}",
+          "gists_url": "https://api.github.com/users/lseufer/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/lseufer/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/lseufer/subscriptions",
+          "organizations_url": "https://api.github.com/users/lseufer/orgs",
+          "repos_url": "https://api.github.com/users/lseufer/repos",
+          "events_url": "https://api.github.com/users/lseufer/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/lseufer/received_events",
+          "type": "User",
+          "user_view_type": "public",
+          "site_admin": false
+        },
+        "labels": [
+          {
+            "id": 10902169101,
+            "node_id": "LA_kwDOSYR4sc8AAAACidHmDQ",
+            "url": "https://api.github.com/repos/bookorbit/bookorbit/labels/bug",
+            "name": "bug",
+            "color": "ff2b4b",
+            "default": true,
+            "description": "Something isn't working"
+          }
+        ],
+        "state": "open",
+        "locked": false,
+        "assignees": [
+
+        ],
+        "milestone": null,
+        "comments": 0,
+        "created_at": "2026-09-06T09:13:49Z",
+        "updated_at": "2026-09-06T09:13:49Z",
+        "closed_at": null,
+        "assignee": null,
+        "issue_field_values": [
+
+        ],
+        "type": null,
+        "active_lock_reason": null,
+        "sub_issues_summary": {
+          "total": 0,
+          "completed": 0,
+          "percent_completed": 0
+        },
+        "issue_dependencies_summary": {
+          "blocked_by": 0,
+          "total_blocked_by": 0,
+          "blocking": 0,
+          "total_blocking": 0
+        },
+        "body": "### What went wrong?\n\nProgress from the Morrow iOS app is correctly saved in BookOrbit for audiobooks, but it is never pushed to Hardcover automatically. Manual “Sync Now” works and sends the correct progress.\n\nSuggested fix\n\nHook HardcoverSyncService.sync_progress / sync_book into the successful audio-progress update path (mirroring the existing hooks for sessions and Kobo state).\n\n### Steps to reproduce\n\nPlay an audiobook directly on bookorbit or via a client. Reading progress is moving but it's not automatically synced with Hardcover.\n\n### Expected vs actual behavior\n\nExpected behavior\n\nWhen audiobook progress is updated (via PATCH /api/v1/books/{id}/audio-progress or equivalent), BookOrbit should automatically call HardcoverSyncService the same way it does for:\n\nKobo state updates (PUT /api/v1/kobo/.../state)\nReading session creation (POST /api/v1/books/files/.../sessions)\nBook status changes (PATCH /api/v1/books/.../status)\n\nActual behavior\n\nProgress is stored and visible in BookOrbit (matches what Morrow shows).\nNo hardcover.sync_progress / hardcover.sync_book log entries are produced by audio-progress updates.\nOnly a manual POST /api/v1/hardcover/books/{id}/sync (or bulk sync) pushes the progress to Hardcover.\n\nEvidence from logs (bookId=331, audiobook)\n\nRepeated successful manual syncs show increasing progressSeconds (e.g. 10169 → 22650 → 27837 → 39342), confirming progress is stored.\nAutomatic Hardcover sync only appears for Kobo/session/status paths, never for audio-progress.\nMany PATCH /api/v1/books/331/audio-progress requests return 401 (possible secondary auth issue on one client), but even successful progress writes do not trigger Hardcover.\n\n### Your setup\n\nEnvironment\n\nBookOrbit v2.8.1\nAudiobook format: m4b\nClient writing progress: Morrow (iOS)\nHardcover integration enabled and working for manual sync + ebook/Kobo paths\n\n\n\n### Relevant logs (optional)\n\n```shell\n\n```\n\n### Screenshots (optional)\n\n_No response_\n\n### Before submitting\n\n- [x] I've searched existing issues and this hasn't been reported yet.\n- [x] If I implement this fix, I will wait for maintainer approval and assignment before writing code or opening a pull request.",
+        "reactions": {
+          "url": "https://api.github.com/repos/bookorbit/bookorbit/issues/1296/reactions",
+          "total_count": 0,
+          "+1": 0,
+          "-1": 0,
+          "laugh": 0,
+          "hooray": 0,
+          "confused": 0,
+          "heart": 0,
+          "rocket": 0,
+          "eyes": 0
+        },
+        "timeline_url": "https://api.github.com/repos/bookorbit/bookorbit/issues/1296/timeline",
+        "performed_via_github_app": null,
+        "state_reason": null,
+        "pinned_comment": null
+      },
+      "label": {
+        "id": 10902169101,
+        "node_id": "LA_kwDOSYR4sc8AAAACidHmDQ",
+        "url": "https://api.github.com/repos/bookorbit/bookorbit/labels/bug",
+        "name": "bug",
+        "color": "ff2b4b",
+        "default": true,
+        "description": "Something isn't working"
+      },
+      "labels": [
+        {
+          "id": 10902169101,
+          "node_id": "LA_kwDOSYR4sc8AAAACidHmDQ",
+          "url": "https://api.github.com/repos/bookorbit/bookorbit/labels/bug",
+          "name": "bug",
+          "color": "ff2b4b",
+          "default": true,
+          "description": "Something isn't working"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2026-09-06T09:13:50Z",
+    "org": {
+      "id": 279911312,
+      "login": "bookorbit",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/bookorbit",
+      "avatar_url": "https://avatars.githubusercontent.com/u/279911312?"
+    }
+  },
+  {
+    "id": "14512656569",
+    "type": "IssuesEvent",
+    "actor": {
+      "id": 7261297,
+      "login": "lseufer",
+      "display_login": "lseufer",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/lseufer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7261297?"
+    },
+    "repo": {
+      "id": 1233418417,
+      "name": "bookorbit/bookorbit",
+      "url": "https://api.github.com/repos/bookorbit/bookorbit"
+    },
+    "payload": {
+      "action": "opened",
+      "issue": {
+        "url": "https://api.github.com/repos/bookorbit/bookorbit/issues/1296",
+        "repository_url": "https://api.github.com/repos/bookorbit/bookorbit",
+        "labels_url": "https://api.github.com/repos/bookorbit/bookorbit/issues/1296/labels{/name}",
+        "comments_url": "https://api.github.com/repos/bookorbit/bookorbit/issues/1296/comments",
+        "events_url": "https://api.github.com/repos/bookorbit/bookorbit/issues/1296/events",
+        "html_url": "https://github.com/bookorbit/bookorbit/issues/1296",
+        "id": 5364061742,
+        "node_id": "I_kwDOSYR4sc8AAAABP7kWLg",
+        "number": 1296,
+        "title": "[Bug] Audiobook progress updates (e.g. from Morrow) do not trigger automatic Hardcover sync",
+        "user": {
+          "login": "lseufer",
+          "id": 7261297,
+          "node_id": "MDQ6VXNlcjcyNjEyOTc=",
+          "avatar_url": "https://avatars.githubusercontent.com/u/7261297?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/lseufer",
+          "html_url": "https://github.com/lseufer",
+          "followers_url": "https://api.github.com/users/lseufer/followers",
+          "following_url": "https://api.github.com/users/lseufer/following{/other_user}",
+          "gists_url": "https://api.github.com/users/lseufer/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/lseufer/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/lseufer/subscriptions",
+          "organizations_url": "https://api.github.com/users/lseufer/orgs",
+          "repos_url": "https://api.github.com/users/lseufer/repos",
+          "events_url": "https://api.github.com/users/lseufer/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/lseufer/received_events",
+          "type": "User",
+          "user_view_type": "public",
+          "site_admin": false
+        },
+        "labels": [
+          {
+            "id": 10902169101,
+            "node_id": "LA_kwDOSYR4sc8AAAACidHmDQ",
+            "url": "https://api.github.com/repos/bookorbit/bookorbit/labels/bug",
+            "name": "bug",
+            "color": "ff2b4b",
+            "default": true,
+            "description": "Something isn't working"
+          }
+        ],
+        "state": "open",
+        "locked": false,
+        "assignees": [
+
+        ],
+        "milestone": null,
+        "comments": 0,
+        "created_at": "2026-09-06T09:13:49Z",
+        "updated_at": "2026-09-06T09:13:49Z",
+        "closed_at": null,
+        "assignee": null,
+        "issue_field_values": [
+
+        ],
+        "type": null,
+        "active_lock_reason": null,
+        "sub_issues_summary": {
+          "total": 0,
+          "completed": 0,
+          "percent_completed": 0
+        },
+        "issue_dependencies_summary": {
+          "blocked_by": 0,
+          "total_blocked_by": 0,
+          "blocking": 0,
+          "total_blocking": 0
+        },
+        "body": "### What went wrong?\n\nProgress from the Morrow iOS app is correctly saved in BookOrbit for audiobooks, but it is never pushed to Hardcover automatically. Manual “Sync Now” works and sends the correct progress.\n\nSuggested fix\n\nHook HardcoverSyncService.sync_progress / sync_book into the successful audio-progress update path (mirroring the existing hooks for sessions and Kobo state).\n\n### Steps to reproduce\n\nPlay an audiobook directly on bookorbit or via a client. Reading progress is moving but it's not automatically synced with Hardcover.\n\n### Expected vs actual behavior\n\nExpected behavior\n\nWhen audiobook progress is updated (via PATCH /api/v1/books/{id}/audio-progress or equivalent), BookOrbit should automatically call HardcoverSyncService the same way it does for:\n\nKobo state updates (PUT /api/v1/kobo/.../state)\nReading session creation (POST /api/v1/books/files/.../sessions)\nBook status changes (PATCH /api/v1/books/.../status)\n\nActual behavior\n\nProgress is stored and visible in BookOrbit (matches what Morrow shows).\nNo hardcover.sync_progress / hardcover.sync_book log entries are produced by audio-progress updates.\nOnly a manual POST /api/v1/hardcover/books/{id}/sync (or bulk sync) pushes the progress to Hardcover.\n\nEvidence from logs (bookId=331, audiobook)\n\nRepeated successful manual syncs show increasing progressSeconds (e.g. 10169 → 22650 → 27837 → 39342), confirming progress is stored.\nAutomatic Hardcover sync only appears for Kobo/session/status paths, never for audio-progress.\nMany PATCH /api/v1/books/331/audio-progress requests return 401 (possible secondary auth issue on one client), but even successful progress writes do not trigger Hardcover.\n\n### Your setup\n\nEnvironment\n\nBookOrbit v2.8.1\nAudiobook format: m4b\nClient writing progress: Morrow (iOS)\nHardcover integration enabled and working for manual sync + ebook/Kobo paths\n\n\n\n### Relevant logs (optional)\n\n```shell\n\n```\n\n### Screenshots (optional)\n\n_No response_\n\n### Before submitting\n\n- [x] I've searched existing issues and this hasn't been reported yet.\n- [x] If I implement this fix, I will wait for maintainer approval and assignment before writing code or opening a pull request.",
+        "reactions": {
+          "url": "https://api.github.com/repos/bookorbit/bookorbit/issues/1296/reactions",
+          "total_count": 0,
+          "+1": 0,
+          "-1": 0,
+          "laugh": 0,
+          "hooray": 0,
+          "confused": 0,
+          "heart": 0,
+          "rocket": 0,
+          "eyes": 0
+        },
+        "timeline_url": "https://api.github.com/repos/bookorbit/bookorbit/issues/1296/timeline",
+        "performed_via_github_app": null,
+        "state_reason": null,
+        "pinned_comment": null
+      }
+    },
+    "public": true,
+    "created_at": "2026-09-06T09:13:50Z",
+    "org": {
+      "id": 279911312,
+      "login": "bookorbit",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/bookorbit",
+      "avatar_url": "https://avatars.githubusercontent.com/u/279911312?"
+    }
+  },
+  {
+    "id": "14512594242",
+    "type": "WatchEvent",
+    "actor": {
+      "id": 358124,
+      "login": "fabiofl",
+      "display_login": "fabiofl",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/fabiofl",
+      "avatar_url": "https://avatars.githubusercontent.com/u/358124?"
+    },
+    "repo": {
+      "id": 1233418417,
+      "name": "bookorbit/bookorbit",
+      "url": "https://api.github.com/repos/bookorbit/bookorbit"
+    },
+    "payload": {
+      "action": "started"
+    },
+    "public": true,
+    "created_at": "2026-09-06T09:11:17Z",
+    "org": {
+      "id": 279911312,
+      "login": "bookorbit",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/bookorbit",
+      "avatar_url": "https://avatars.githubusercontent.com/u/279911312?"
+    }
+  },
+  {
+    "id": "14512368866",
+    "type": "WatchEvent",
+    "actor": {
+      "id": 41661823,
+      "login": "Zhangyuphil",
+      "display_login": "Zhangyuphil",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Zhangyuphil",
+      "avatar_url": "https://avatars.githubusercontent.com/u/41661823?"
+    },
+    "repo": {
+      "id": 1233418417,
+      "name": "bookorbit/bookorbit",
+      "url": "https://api.github.com/repos/bookorbit/bookorbit"
+    },
+    "payload": {
+      "action": "started"
+    },
+    "public": true,
+    "created_at": "2026-09-06T09:01:55Z",
+    "org": {
+      "id": 279911312,
+      "login": "bookorbit",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/bookorbit",
+      "avatar_url": "https://avatars.githubusercontent.com/u/279911312?"
+    }
+  },
+  {
+    "id": "14511931823",
+    "type": "WatchEvent",
+    "actor": {
+      "id": 63288367,
+      "login": "MatteoNeta",
+      "display_login": "MatteoNeta",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/MatteoNeta",
+      "avatar_url": "https://avatars.githubusercontent.com/u/63288367?"
+    },
+    "repo": {
+      "id": 1233418417,
+      "name": "bookorbit/bookorbit",
+      "url": "https://api.github.com/repos/bookorbit/bookorbit"
+    },
+    "payload": {
+      "action": "started"
+    },
+    "public": true,
+    "created_at": "2026-09-06T08:43:09Z",
+    "org": {
+      "id": 279911312,
+      "login": "bookorbit",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/bookorbit",
+      "avatar_url": "https://avatars.githubusercontent.com/u/279911312?"
+    }
+  },
+  {
+    "id": "14510634745",
+    "type": "WatchEvent",
+    "actor": {
+      "id": 36243192,
+      "login": "tmsholy",
+      "display_login": "tmsholy",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/tmsholy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/36243192?"
+    },
+    "repo": {
+      "id": 1233418417,
+      "name": "bookorbit/bookorbit",
+      "url": "https://api.github.com/repos/bookorbit/bookorbit"
+    },
+    "payload": {
+      "action": "started"
+    },
+    "public": true,
+    "created_at": "2026-09-06T07:47:05Z",
+    "org": {
+      "id": 279911312,
+      "login": "bookorbit",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/bookorbit",
+      "avatar_url": "https://avatars.githubusercontent.com/u/279911312?"
+    }
+  },
+  {
+    "id": "14510576973",
+    "type": "WatchEvent",
+    "actor": {
+      "id": 32390024,
+      "login": "sindreruud",
+      "display_login": "sindreruud",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/sindreruud",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32390024?"
+    },
+    "repo": {
+      "id": 1233418417,
+      "name": "bookorbit/bookorbit",
+      "url": "https://api.github.com/repos/bookorbit/bookorbit"
+    },
+    "payload": {
+      "action": "started"
+    },
+    "public": true,
+    "created_at": "2026-09-06T07:44:37Z",
+    "org": {
+      "id": 279911312,
+      "login": "bookorbit",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/bookorbit",
+      "avatar_url": "https://avatars.githubusercontent.com/u/279911312?"
+    }
+  },
+  {
+    "id": "14510235330",
+    "type": "WatchEvent",
+    "actor": {
+      "id": 114709049,
+      "login": "nosime",
+      "display_login": "nosime",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/nosime",
+      "avatar_url": "https://avatars.githubusercontent.com/u/114709049?"
+    },
+    "repo": {
+      "id": 1233418417,
+      "name": "bookorbit/bookorbit",
+      "url": "https://api.github.com/repos/bookorbit/bookorbit"
+    },
+    "payload": {
+      "action": "started"
+    },
+    "public": true,
+    "created_at": "2026-09-06T07:30:04Z",
+    "org": {
+      "id": 279911312,
+      "login": "bookorbit",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/bookorbit",
+      "avatar_url": "https://avatars.githubusercontent.com/u/279911312?"
+    }
+  },
+  {
+    "id": "14510205467",
+    "type": "WatchEvent",
+    "actor": {
+      "id": 29176678,
+      "login": "niklashigi",
+      "display_login": "niklashigi",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/niklashigi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/29176678?"
+    },
+    "repo": {
+      "id": 1233418417,
+      "name": "bookorbit/bookorbit",
+      "url": "https://api.github.com/repos/bookorbit/bookorbit"
+    },
+    "payload": {
+      "action": "started"
+    },
+    "public": true,
+    "created_at": "2026-09-06T07:28:49Z",
+    "org": {
+      "id": 279911312,
+      "login": "bookorbit",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/bookorbit",
+      "avatar_url": "https://avatars.githubusercontent.com/u/279911312?"
+    }
+  },
+  {
+    "id": "14509716536",
+    "type": "WatchEvent",
+    "actor": {
+      "id": 6282993,
+      "login": "RobertoVillegas",
+      "display_login": "RobertoVillegas",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/RobertoVillegas",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6282993?"
+    },
+    "repo": {
+      "id": 1233418417,
+      "name": "bookorbit/bookorbit",
+      "url": "https://api.github.com/repos/bookorbit/bookorbit"
+    },
+    "payload": {
+      "action": "started"
+    },
+    "public": true,
+    "created_at": "2026-09-06T07:07:02Z",
+    "org": {
+      "id": 279911312,
+      "login": "bookorbit",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/bookorbit",
+      "avatar_url": "https://avatars.githubusercontent.com/u/279911312?"
+    }
+  },
+  {
+    "id": "14509358534",
+    "type": "WatchEvent",
+    "actor": {
+      "id": 206306,
+      "login": "samdeane",
+      "display_login": "samdeane",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/samdeane",
+      "avatar_url": "https://avatars.githubusercontent.com/u/206306?"
+    },
+    "repo": {
+      "id": 1233418417,
+      "name": "bookorbit/bookorbit",
+      "url": "https://api.github.com/repos/bookorbit/bookorbit"
+    },
+    "payload": {
+      "action": "started"
+    },
+    "public": true,
+    "created_at": "2026-09-06T06:50:31Z",
+    "org": {
+      "id": 279911312,
+      "login": "bookorbit",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/bookorbit",
+      "avatar_url": "https://avatars.githubusercontent.com/u/279911312?"
+    }
+  },
+  {
+    "id": "14508563872",
+    "type": "WatchEvent",
+    "actor": {
+      "id": 3183610,
+      "login": "nmiculinic",
+      "display_login": "nmiculinic",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/nmiculinic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3183610?"
+    },
+    "repo": {
+      "id": 1233418417,
+      "name": "bookorbit/bookorbit",
+      "url": "https://api.github.com/repos/bookorbit/bookorbit"
+    },
+    "payload": {
+      "action": "started"
+    },
+    "public": true,
+    "created_at": "2026-09-06T06:12:45Z",
+    "org": {
+      "id": 279911312,
+      "login": "bookorbit",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/bookorbit",
+      "avatar_url": "https://avatars.githubusercontent.com/u/279911312?"
+    }
+  },
+  {
+    "id": "14506774940",
+    "type": "WatchEvent",
+    "actor": {
+      "id": 187045662,
+      "login": "Cool-Byte01",
+      "display_login": "Cool-Byte01",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Cool-Byte01",
+      "avatar_url": "https://avatars.githubusercontent.com/u/187045662?"
+    },
+    "repo": {
+      "id": 1233418417,
+      "name": "bookorbit/bookorbit",
+      "url": "https://api.github.com/repos/bookorbit/bookorbit"
+    },
+    "payload": {
+      "action": "started"
+    },
+    "public": true,
+    "created_at": "2026-09-06T04:46:59Z",
+    "org": {
+      "id": 279911312,
+      "login": "bookorbit",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/bookorbit",
+      "avatar_url": "https://avatars.githubusercontent.com/u/279911312?"
+    }
+  },
+  {
+    "id": "14506529265",
+    "type": "WatchEvent",
+    "actor": {
+      "id": 85187365,
+      "login": "benjaminjaninja",
+      "display_login": "benjaminjaninja",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/benjaminjaninja",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85187365?"
+    },
+    "repo": {
+      "id": 1233418417,
+      "name": "bookorbit/bookorbit",
+      "url": "https://api.github.com/repos/bookorbit/bookorbit"
+    },
+    "payload": {
+      "action": "started"
+    },
+    "public": true,
+    "created_at": "2026-09-06T04:35:18Z",
+    "org": {
+      "id": 279911312,
+      "login": "bookorbit",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/bookorbit",
+      "avatar_url": "https://avatars.githubusercontent.com/u/279911312?"
+    }
+  }
+]
